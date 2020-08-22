@@ -1,0 +1,23 @@
+{
+  "name": "websocket-sandbox",
+  "version": "1.0.0",
+  "description": "The sandbox for WebSocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiichiSugihara/websocket-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiichiSugihara/websocket-sandbox/issues"
+  },
+  "homepage": "https://github.com/KiichiSugihara/websocket-sandbox#readme",
+  "dependencies": {
+    "ws": "^7.3.1"
+  }
+}
